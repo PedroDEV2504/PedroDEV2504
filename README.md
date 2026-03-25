@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PedroDEV2504
-- 👀 I’m interested in Back end
-- 🌱 I’m currently learning javascript, java and python
+- 👀 I’m interested in Data Science
+- 🌱 I’m currently learning JavaScript, SQL and Python
 - 💞️ I’m looking to collaborate on projects and volunteer work
 - 📫 How to reach me https://www.linkedin.com/in/pedro-mendes-277385249
 
